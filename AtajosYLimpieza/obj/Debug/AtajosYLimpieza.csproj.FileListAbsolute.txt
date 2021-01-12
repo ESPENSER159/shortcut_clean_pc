@@ -1,0 +1,13 @@
+D:\Documentos\Code\CDS (Centro de Soluciones)\CDS (Centro de Soluciones)\AtajosYLimpieza\bin\Debug\Atajos Y Limpieza.exe.config
+D:\Documentos\Code\CDS (Centro de Soluciones)\CDS (Centro de Soluciones)\AtajosYLimpieza\bin\Debug\Atajos Y Limpieza.exe
+D:\Documentos\Code\CDS (Centro de Soluciones)\CDS (Centro de Soluciones)\AtajosYLimpieza\bin\Debug\Atajos Y Limpieza.pdb
+D:\Documentos\Code\CDS (Centro de Soluciones)\CDS (Centro de Soluciones)\AtajosYLimpieza\bin\Debug\es-CO\Atajos Y Limpieza.resources.dll
+D:\Documentos\Code\CDS (Centro de Soluciones)\CDS (Centro de Soluciones)\AtajosYLimpieza\obj\Debug\AtajosYLimpieza.csprojAssemblyReference.cache
+D:\Documentos\Code\CDS (Centro de Soluciones)\CDS (Centro de Soluciones)\AtajosYLimpieza\obj\Debug\CDS__Centro_de_Soluciones_.FormPrinCDS.resources
+D:\Documentos\Code\CDS (Centro de Soluciones)\CDS (Centro de Soluciones)\AtajosYLimpieza\obj\Debug\Atajos_Y_Limpieza.Properties.Resources.resources
+D:\Documentos\Code\CDS (Centro de Soluciones)\CDS (Centro de Soluciones)\AtajosYLimpieza\obj\Debug\CDS__Centro_de_Soluciones_.FormPrinCDS.es-CO.resources
+D:\Documentos\Code\CDS (Centro de Soluciones)\CDS (Centro de Soluciones)\AtajosYLimpieza\obj\Debug\AtajosYLimpieza.csproj.GenerateResource.cache
+D:\Documentos\Code\CDS (Centro de Soluciones)\CDS (Centro de Soluciones)\AtajosYLimpieza\obj\Debug\AtajosYLimpieza.csproj.CoreCompileInputs.cache
+D:\Documentos\Code\CDS (Centro de Soluciones)\CDS (Centro de Soluciones)\AtajosYLimpieza\obj\Debug\es-CO\Atajos Y Limpieza.resources.dll
+D:\Documentos\Code\CDS (Centro de Soluciones)\CDS (Centro de Soluciones)\AtajosYLimpieza\obj\Debug\Atajos Y Limpieza.exe
+D:\Documentos\Code\CDS (Centro de Soluciones)\CDS (Centro de Soluciones)\AtajosYLimpieza\obj\Debug\Atajos Y Limpieza.pdb
